@@ -1,0 +1,200 @@
+Create an array of length 5 which contains all even numbers between 1 and 10.
+Formulate an equation to calculate the height of a triangle given the angle, side lengths and opposite side length.
+Write a replace method for a string class which replaces the given string with a given set of characters.string = "Hello World!" replace_with = "Greetings!"
+Create an array of length 15 containing numbers divisible by 3 up to 45.
+Write a function to find the number of distinct states in a given matrix.matrix = [[1, 0, 0], [1, 0, 1], [1, 1, 1]]
+Create a nested loop to print every combination of numbers between 0-9
+Write a function to find the maximum difference between two numbers in a given array.arr = [5, 3, 17, 11, 9]
+Write a function to generate the nth Fibonacci number.
+Write a class to represent a 2D point with x and y coordinates.
+Write code that removes spaces from a given string.string = " A B C D "
+Write a function that checks if a given number is even or odd.
+Write code to create a list of all prime numbers between 2 and 100.
+Edit the following code to print out all even numbers from 1 to 10.for i in range(1,11):     print(i)
+Write code to find the sum of all numbers between 1 and 10.
+Create a function to calculate the area of a given circle.
+Develop a classification algorithm in Python to predict whether a bird is a hawk or a falcon.
+Given an array of integers, write an algorithm to find the first repeating element.[2, 5, 1, 2, 3, 5]
+Replace the placeholder with a for loop for iterating over the numbers from 1 to n and printing them.for i in range(n):     # TODO
+Use try-except statements to detect and handle exceptions in the code.for i in range(n):     x = 1/i
+Re-write the code segment as a list comprehension.numbers = [] for i in range(10):     if i % 2 == 0:         numbers.append(i)
+Remove the boilerplate code from the program for printing 10 random numbers.import random  # Generate 10 random numbers for i in range(10):     # TODO
+Modify the code to perform the mathematical expression "x to the power of y".# Calculate x to the power of y # TODO
+Create a dictionary for counting the occurrence of each letter in the given string.string = "hello world" #TODO
+Follow the comments to complete the code that finds the maximum value in an array.# Find the maximum value in an array arr = [4, 5, 2, 8, 7] # TODO
+Write a Python function to convert a given string to lowercase.string = "FOO"
+Edit the Python code so that it prints out the total number of elements in the list.list = [1, 2, 3, 4, 5]
+Edit the code to create a try-except block to handle the exception.a = 5 b = 0  ans = a/b
+Change the variable `x` to the data type desired.x = 'Hello World!'
+Create a function that takes an array as an argument and returns the sum of all the elements in the array.arr = [1, 2, 3, 4, 5]
+Sort the array in ascending order.arr = [3, 2, 1, 5, 4]
+Generate a random integer between 4 and 8 (inclusively).
+Write a list comprehension to square each number in the list.arr = [1, 2, 3, 4, 5]
+Write a function that takes a string and reverses the words.text = "Hello World!"
+Create a function that takes in two numbers as arguments and returns the product of the two.
+Using the given function, create a loop that counts from 0 to 9.def print_num(num):   print(num)
+Count the number of characters in the string.text = "Hello World!"
+Generate a random number between 0 and 1 (inclusively).
+Compose a function named average_list which takes a list of numbers as its argument and computes the average.
+Generate a snippet of code to extract all the URLs from the given string.This string contains some urls such as https://www.google.com and https://www.facebook.com.
+Create a list comprehension to generate a list of multiples of 3 from 0 to 23.
+Design a program to find the longest element in the given list.[10, 100, 200, 500, 400]
+Write a function to print all prime numbers between two given numbers.
+Write an algorithm in Python to determine if a number is even or odd.
+Generate a regular expression to match a valid email address.
+Is it possible to set a breakpoint that is not associated with any source code line in a GDB program?
+Encrypt a string in Python?
+Given a list of integers, create code to remove the duplicates.my_list = [1, 4, 4, 6, 6, 8]
+Using the following code, clean up the bugs and make sure the output functions correctly.def example_func(lst):    for element in lst:       if (type(element) == int):          lst.append(element + 5)    return lst   example_func([1, 2, "hello"])
+Parse the string and return the number of unique alphabets in the string.StringInput = "apple"
+Implement a function that finds the maximum element in a given array.arr = [45, 7, 0, 82, 23]
+Validate whether the string contains only alphabets or not.myString = "abc123"
+Rewrite the following code using ternary operator.num1 = 5 num2 = 10  if num1 < num2:     print("num1 is smaller than num2") else:     print("num1 is greater than or equal to num2")
+Write a script to check if a given number is a palindrome or not.inputNumber = 121
+Edit the following code to remove the bugs.def reverse_string(user_string):    if len(user_string) == 0:      return ""    else:      return reverse_string(user_string[1:]) + user_string[0]       print(reverse_string("test"))
+What is the output of the following code?list1 = ['a', 'b', 'c'] list2 = [1, 2, 3]  for x, y in zip(list1, list2):     print(x * y)
+Write a function to remove all whitespace characters from a given string.myString = "Hello   World    "
+Edit the following code to add try catch block.x = "5" y = "2" sum = int(x) + int(y) print("Sum of x and y is", sum)
+Write a Python function that takes two lists of equal length and creates a dictionary of the elements in each list that have the same index.list_one = [1, 2, 3, 4] list_two = ["a", "b", "c", "d"]
+Create a quick-sort algorithm in Python.
+Develop an algorithm to find the value of n where n is the index of the Fibonacci sequence.
+Create a program that finds all the prime numbers less than or equal to a given number.
+Write a function that takes in a list of numbers and prints out the greatest number.list = [8, 2, 14, 25]
+Design an algorithm that takes a list of strings and returns the longest string.list = ["cat", "dog", "lion", "bird"]
+Write a function that takes in a matrix of numbers and reverses the order of the rows and columns.matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+Design an algorithm that creates a random password of 8 characters.
+For a given list, create a program that prints out the standard deviation of the elements in the list.list = [1, 4, 9, 16]
+Create a program that can filter out words of a string that contain a specific character.string = "This is a sentence" character = 's'
+Create a program that can calculate the distance between two points in three-dimensional space.point1 = (1, 5, 9) point2 = (4, 2, 8)
+Create a program that ciphers a given text using the caesar cipher.text = "This is a secret message" key = 3
+Find the second smallest element in an integer array of size n.array = [4, 5, 8, 2, 9, 13]
+Create a function to calculate the maximum of two numbers.
+Write a Python program to split a string on a given character separator.mystring = "Hello, World!" separator = ","
+Write a Python program to get the day of week from a given date and time.from datetime import datetime date = datetime(2020, 4, 20, 19, 15, 0)
+Write a Python program to print out an ASCII art of a given word.word = "happy"
+Write a Python program to concatenate all elements in a list into a string separated by a given separator.input_list = ["Python", "is", "a", "programming", "language"] separator = "-"
+Rewrite the following Python code using a for-loop.i = 0 while i <= 10:     print(i)     i += 1
+Design a program to compare two sorted lists and returning list with the common elements.list_one=[5, 10, 15, 20, 25] list_two=[15, 17, 20, 22, 25, 27]
+Write a code to sort the following array in increasing order.[10, 2, 7, 8, 32, 4]
+Create a regular expression to validate a URL string.
+Write a Python code to calculate the mean of a given array.[1,2,3,4]
+Write a code to get the time difference between two date-time objects.date1: 2019-05-11 21:00:00 date2: 2019-05-13 10:00:00
+Write a code to access the nth element of a linked list.
+Write a code to add two linked lists of different sizes.list1 = [2->4->3] list2 = [5->6->4->1]
+Modify the code below to make it calculate the sum of all the numbers from 1 to n.num = 5 sum = 0 for i in range(num):   sum += i
+Create a program to generate a histogram using data from a set of numbers.values = [3, 4, 2, 5, 8, 1, 2, 6]
+Create a function to convert Celsius to Fahrenheit.
+Write a function to find the number of occurrences of an element in a list.arr = [10, 20, 10, 40, 40, 40, 50]
+Generate a dictionary of 10 key-value pairs, where the key is a string and the values are random numbers from 1 to 100.
+Write a Python program to remove all instances of a given value from a given list.[1, 2, 3, 2, 3, 4], 2
+Write a Python program to generate the first n Fibonacci numbers.
+Construct an if-else statement that returns 'even' if the given number is even and 'odd' if the given number is odd.
+Multiply two vectors of size 5 and return the output.a = [1, 2, 3, 4, 5]  b = [5, 4, 3, 2, 1]
+Create a list comprehension that takes all the elements of list_one and creates a new list where all the elements are doubled.list_one = [1, 2, 3, 4, 5]
+You are given a matrix of m rows and n columns. Write a function that calculates the transpose of the given matrix.matrix = [[1, 2, 3], [4, 5, 6], [7, 8, 9]]
+Given a list of numbers, print the difference between the largest and the smallest number.list_of_numbers = [10, 7, 5, 12, 4]
+Create a for loop that goes through every element of list_of_words and prints 'success' if an element is equal to "example" and prints 'failure' in any other case.list_of_words = ["hello", "example", "world"]
+Create a function that takes in a list of temperatures and returns the average temperature.list_of_temperatures = [20, 24, 26, 18]
+You are given a list of numbers. Create a function that returns a new list with duplicates removed.list_of_numbers = [3, 6, 5, 5, 7, 6, 3]
+In a given string, create a function that returns the longest consecutive sequence of characters.my_string = "abccdeefghj"
+Create a function that takes in a string and counts the number of vowels in it.
+Write a function that takes in a string and returns a list of all the words that have more than 5 characters.
+Create a function that takes in a string and replaces all punctuation with a space.
+Create a function that takes in a list of numbers and returns true if the list contains at least one positive number.list_of_numbers = [-2, -5, 0, 3]
+Write an algorithm to find the largest element in an array.[8, 11, 12, 5, 3]
+Design a function in Python to delete duplicates from a list.The list is: [2, 3, 2, 4, 5, 5, 6]
+Implement an algorithm to find the sum of all the elements in an array.The array is: [3, 5, 8, 10, 4]
+Write a Python program to loop through all the items in a given list.List: [1, 2, 3, 4, 5, 6]
+Convert the following binary number to a decimal number.Binary Number: 10011
+What is the largest prime factor of the number 885?
+Create a function in Python which takes two parameters and returns their product.
+Construct a for loop that prints out the numbers from 1 to 10.
+Construct a while loop that increments a counter every time a number is divisible by 3.
+Create a Regular Expression pattern to find words that contain the letters "a", "b", and "c".
+Create a class in Python to represent a Person.
+Write a code to check whether the input string is a palindrome or not.a man a plan a canal panama
+Write a code to remove the duplicates from a given list.mylist = [1,2,3,1,2]
+Create a dictionary containing the key-value pair of a given string.string = "test string"
+Write a code to generate a random number between 1 to 10.
+Write a code to create a 3 x 3 matrix containing all 0s.
+Write a code to check whether two strings are anagrams or not.first = "listen" second = "silent"
+Write a code to delete all the vowels from a given string.string = "hello world"
+Write a code to convert a given list of strings to uppercase.mylist = ["hello","world"]
+Write a code to find the maximum in a given list of integers.mylist = [1,2,3,4,5]
+Write a code to merge two given lists of equal size.list1 = [1,2,3] list2 = [4,5,6]
+Write a code to compute the mean of an input list of numbers.mylist = [1,2,3,4,5]
+Create a program to convert the input sentence to Pig Latin.I am a computer programmer
+Create a program to write an overwriting if-else logic for the following switch statement.switch(a) {   case 1:      func1();     break;   case 2:      func2();     break; }
+Write a function that sorts the given list of numbers in descending order.[1, 2, 3, 5, 8, 10]
+Create a program to create a list of all the numbers from 1 to 10 which are divisible by 3.
+Rewrite the following for-loop as a while-loop.for i in range(0, 5):     print(i)
+Create a program to compute the checksum of a given data packet.data_packet = [0xff, 0x0a, 0x1b, 0x3f]
+Create a program to parse a given string and return a dictionary with all the words and their frequency."this is a practice string to learn the parsing of strings"
+Create a program to classify whether the given number is even or odd.5
+Create a program to generate the sum of all the elements in a given list.[1, 2, 3, 4, 5]
+Create a program to find all the factors of a given number.24
+Create a program to check if a given string is a palindrome."racecar"
+Create a program to generate all possible pairs of a given list of numbers.[1, 2, 3]
+Create a program that extracts a given pattern from a given string.text = "Hello world!", pattern = "l"
+Write a Python program to split special characters with a given string.string = "Hello@#World"
+Create a regex to match the characters "CDE" in any order.
+Convert the following string to a list of strings.words = "How are you doing today"
+Generate a 5x5 array with all its elements equal to 1.
+Given a list of numbers, find the index of the greatest value.lst = [3, 5, 6, 8, 9]
+Classify the following sentence as positive or negative sentiment.This is the worst experience ever.
+Find the total number of elements in the following array.my_array = [[1,2], 3, 4]
+Classify the following sentence as a question or a statement.Have you ever tried eating a brussel sprout?
+Write a Python program that tests if a given number is divisible by 3.num = 51
+Edit the following code so it outputs the odd numbers between 1 and 50.for i in range(1,51):     print(i)
+Write a function to compare two strings and return True if they are anagrams.str1 = 'silent' str2 = 'listen'
+Write a function that takes a list of integers as inputs and returns the sum of the square of all the even numbers.lst = [2, 8, 9, 5, 3, 10]
+Using the input string, write a code to replace the "!" with a "?".string = "Hello World!"
+Write a code to take two string inputs and generate the output string containing alternate characters from each string.str1 = 'abc' str2 = '123'
+Given a list of strings, write a code to find the longest string.lst = ['one', 'two', 'three', 'four', 'five']
+Write a function to get the mean of the given list of numbers.lst = [1, 4, 5, 9, 3]
+Write a Django Model API to store status and published date for a blog post.
+Write a code to compare two lists and find the common elements.list1 = [3, 6, 9, 12] list2 = [2, 4, 5, 6, 8, 9]
+Write an algorithm to check if an array contains a given value.arr = [1, 7, 5, 8, 44] value = 5
+Write a function to determine if two strings are anagrams of each other.
+Write an algorithm to generate the Fibonacci series up to the nth term.
+Write a function that checks if a string is a palindrome or not.string = "ana"
+Change the following array so that it orders in ascending order.array = [3, 7, 1, 8, 4]
+Read a code and identify the data type of the variables a and b.a = 8 b = "Hello"
+Write a simple calculator program.
+Parse the string "Hello[1]World[4]123[3]" into a list.string = "Hello[1]World[4]123[3]"
+Write a code to return the first 3 elements in a list.mylist = [1,4,3,6,7,2,4]
+Change the following array so that it only contains numbers divisible by 3.mylist = [2, 4, 5, 6, 7, 11, 12, 22]
+Write a function to remove duplicate items in a list.mylist = [2, 3, 3, 4, 5, 6, 4, 7]
+Read a code and find all the function calls that are made.print('Hello world!') my_function() my_function2(2, 3)
+Write a code to delete all items from a list with a value of 3.mylist = [2, 3, 3, 4, 5, 6, 4, 7]
+Create a new array that contains only the even numbers from a given array.arr = [1, 2, 3, 4, 5, 6, 7, 8]
+Find the number of times a letter appears in a string.string = "Hello World" letter = 'l'
+Create a for loop to print the numbers from 1 to 100.
+Estimate the time complexity of the following algorithm.for i in range(n):     for j in range(n):         print(i + j)
+Write a code snippet to return the item with the highest value in a given dictionary.d = {'a':20, 'b':10, 'c':15}
+For the following two arrays, create a code snippet to return the intersecting element.arr1 = [1, 9, 4, 10] arr2 = [2, 4, 7, 8]
+Using the numpy library, create a 3x3 Identity Matrix.
+Generate a unique and random password for a user using python.
+Given a binary tree, write a code snippet to list all of its descendant leafs.
+Given a string, write a function to remove all the duplicate characters.string = "apple"
+Classify the following sentence using a sentiment analysis model.The movie is awesome.
+Convert all words in a sentence to camelCase.The quick brown fox jumps over the lazy dog
+Write a function to calculate the average score of a list of numbers.
+Write a function to find the longest string in a list of strings.
+Implement a function to extract the last two words from a string of words.
+Write code to find the intersection of two sorted lists.list1 = [1, 3, 4, 6] list2 = [1, 2, 5, 6]
+Write code to flatten a nested list.
+Write code to remove all occurrences of a given element from a list.
+Generate pseudocode for a matrix multiplication algorithm.
+Create a function to generate a random password of length n.
+Debug the following Python code.def f(x):     if x > 0:         return -1     else:         return 1
+Generate a data structure that can efficiently store an array of words.
+Create a function to find the position of a substring in a string.
+Reorder a given array in specialized order.
+Design a function in Python that returns the median of an array of integers.
+Write a code to reverse the order of a data structure such as array, list, or stack.list1 = [1, 3, 5, 7, 9]
+Redesign the following Python program with functions.my_list = [5, 10, 15, 20] sum = 0 for number in my_list: sum = sum + number
+Generate a random integer between 1 and 6.
+Create a program that prints the first 10 Fibonacci numbers.
+Calculate the sum of an array of integers.[3, 5, 7, 9]
+Find the smallest element in a given array.[6, 8, 1, 4, 5]
