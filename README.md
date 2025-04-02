@@ -4,6 +4,7 @@ This is an application for analyzing the importance of individual tokens in prom
 ## Requirements:
 - Python 3.7 or higher
 - OpenAI API key and some credit
+- These instructions are for Linux
 
 ## Installation and Setup
 1. Download and unzip the folder
