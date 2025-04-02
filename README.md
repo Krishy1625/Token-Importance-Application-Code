@@ -15,19 +15,19 @@ CustomSet.txt frames README.md storage
 ```
 3. create a python virtual environment
 ```
-$ python3 -m venv venv
+python3 -m venv venv
 ```
 4. activate the virtual envirnment using:
 ```
-$ source venv/bin/activate
+source venv/bin/activate
 ```
 5. Install the requirements using:
 ```
-$ pip install -r requirements.txt
+pip install -r requirements.txt
 ```
 6. Run the application:
 ```
-$ python3 main.py
+python3 main.py
 ```
 
 ## Custom Prompts
