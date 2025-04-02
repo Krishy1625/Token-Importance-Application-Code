@@ -1,5 +1,6 @@
 # homepage_frame.py
 # homepage stuff
+# used code for help from https://www.youtube.com/watch?v=7u87KAO5-Ug
 
 import tkinter as tk
 from tkinter import ttk
@@ -221,7 +222,7 @@ class HomepageFrame(ttk.Frame):
 
     def clear_fields(self):
         self.api_key.set("")
-        self.selected_dataset.set("CustomSet")  # keep customset for now
+        self.selected_dataset.set("CustomSet")  # keep custon for now
         self.num_prompts.set(3)
 
     def update_num_prompts_label(self, label_widget):
